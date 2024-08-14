@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="d55ab359-09ee-4e8b-937d-7d08617d10ab"
+ARG AUUID="f7588d86-8a37-4f86-b47c-c2435d00ef47"
 ARG CADDYIndexPage="https://ubuntu.com/download/desktop"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=80
